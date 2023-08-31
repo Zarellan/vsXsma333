@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jenIcon.png">
+<SubTexture name="jenIcon Story0000" x="1640" y="0" width="822" height="703" frameX="-1010" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon Story0001" x="0" y="0" width="820" height="715" frameX="-1011" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon StorySelect0000" x="1640" y="703" width="822" height="703" frameX="-1010" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon StorySelect0001" x="820" y="0" width="820" height="715" frameX="-1011" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon freePlay0000" x="0" y="1430" width="822" height="703" frameX="-1010" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon freePlay0001" x="0" y="715" width="820" height="715" frameX="-1011" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon Freeplay Selec0000" x="822" y="1430" width="822" height="703" frameX="-1010" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jenIcon Freeplay Selec0001" x="820" y="715" width="820" height="715" frameX="-1011" frameY="-78" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

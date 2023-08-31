@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="xsma333Dial.png">
+<SubTexture name="xsma333Dial stand0000" x="0" y="0" width="828" height="844" frameX="-565" frameY="-229" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="xsma333Dial headache0000" x="1513" y="0" width="823" height="824" frameX="-569" frameY="-251" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="xsma333Dial oldXsma3330000" x="828" y="0" width="685" height="831" frameX="-622" frameY="-247" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

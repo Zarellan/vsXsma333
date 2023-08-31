@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buttonArrow.png">
+<SubTexture name="no0000" x="0" y="0" width="7" height="11" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="yes0000" x="7" y="0" width="7" height="11" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+</TextureAtlas>

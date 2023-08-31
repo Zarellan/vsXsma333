@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="12.png">
+<SubTexture name="12 idol0000" x="646" y="29" width="3" height="5" frameX="0" frameY="-380" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0001" x="616" y="56" width="30" height="14" frameX="0" frameY="-377" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0002" x="587" y="82" width="58" height="17" frameX="0" frameY="-375" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0003" x="501" y="82" width="86" height="21" frameX="0" frameY="-373" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0004" x="501" y="56" width="115" height="26" frameX="0" frameY="-369" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0005" x="501" y="29" width="145" height="27" frameX="0" frameY="-367" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0006" x="172" y="518" width="168" height="27" frameX="-6" frameY="-368" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0007" x="501" y="0" width="167" height="29" frameX="-34" frameY="-367" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0008" x="340" y="518" width="190" height="27" frameX="-42" frameY="-370" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0009" x="195" y="396" width="183" height="31" frameX="-81" frameY="-368" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0010" x="356" y="489" width="175" height="28" frameX="-119" frameY="-372" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0011" x="0" y="489" width="179" height="29" frameX="-145" frameY="-372" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0012" x="0" y="518" width="172" height="28" frameX="-185" frameY="-373" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0013" x="242" y="363" width="170" height="32" frameX="-219" frameY="-371" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0014" x="179" y="489" width="177" height="29" frameX="-242" frameY="-375" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0015" x="0" y="459" width="185" height="30" frameX="-267" frameY="-376" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0016" x="185" y="459" width="175" height="30" frameX="-310" frameY="-376" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0017" x="0" y="227" width="186" height="34" frameX="-333" frameY="-374" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0018" x="0" y="396" width="195" height="32" frameX="-358" frameY="-378" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0019" x="0" y="428" width="188" height="31" frameX="-398" frameY="-378" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0020" x="186" y="227" width="222" height="34" frameX="-400" frameY="-376" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0021" x="0" y="261" width="228" height="34" frameX="-428" frameY="-376" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0022" x="188" y="428" width="229" height="31" frameX="-464" frameY="-380" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0023" x="228" y="261" width="200" height="34" frameX="-530" frameY="-379" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0024" x="219" y="329" width="231" height="33" frameX="-534" frameY="-382" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0025" x="0" y="363" width="242" height="33" frameX="-561" frameY="-383" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0026" x="0" y="295" width="192" height="34" frameX="-647" frameY="-384" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0027" x="0" y="192" width="213" height="35" frameX="-665" frameY="-385" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0028" x="0" y="120" width="214" height="36" frameX="-704" frameY="-384" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0029" x="192" y="295" width="253" height="34" frameX="-703" frameY="-387" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0030" x="0" y="329" width="219" height="34" frameX="-778" frameY="-389" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0031" x="0" y="42" width="258" height="39" frameX="-779" frameY="-387" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0032" x="258" y="42" width="226" height="39" frameX="-850" frameY="-390" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0033" x="0" y="0" width="230" height="42" frameX="-889" frameY="-388" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0034" x="103" y="81" width="262" height="38" frameX="-897" frameY="-388" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0035" x="214" y="120" width="274" height="36" frameX="-930" frameY="-392" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0036" x="0" y="156" width="269" height="36" frameX="-976" frameY="-393" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0037" x="230" y="0" width="271" height="40" frameX="-1009" frameY="-391" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0038" x="213" y="192" width="195" height="35" frameX="-1085" frameY="-398" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0039" x="269" y="156" width="142" height="36" frameX="-1138" frameY="-399" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0040" x="0" y="81" width="103" height="39" frameX="-1177" frameY="-396" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0041" x="365" y="81" width="73" height="36" frameX="-1207" frameY="-399" frameWidth="1280" frameHeight="720" />
+<SubTexture name="12 idol0042" x="438" y="81" width="30" height="32" frameX="-1250" frameY="-400" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
